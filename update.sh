@@ -15,20 +15,20 @@ read -p "> " opts
 if [ $opts = "s" ]; then
 
 clear
-echo $YELLOW"Atualizando o brizas orion, aguarde..."
+echo $YELLOW"Actualizando, porfavot espere..."
 git clone https://github.com/ianmsfvenom/Brizas-bot > /dev/null 2> /dev/null
 
-cd Brizas-bot
+cd reykers-bot
 cp -r * ..
 cd ..
-rm -rf Brizas-bot
+rm -rf reykers-bot
 npm i
 
 clear
-echo $GREEN"Brizas orion atualizado com sucesso!!"
+echo $GREEN"Reykers atualizado correctamente!!"
 
 elif [ $opts = "n"]; then
     clear
-    echo $RED"Atualização do brizas orion abortada"
+    echo $RED"Actualización de Reykers abortada"
     exit
 fi
