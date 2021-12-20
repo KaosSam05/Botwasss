@@ -8,7 +8,7 @@ return `
 ┃ 🌎 𝐖𝐚𝐦𝐞: 
 ┃ ${wame}                                       
 ┃
-┣━━ 🤩 𝑹𝑬𝑫𝑬𝑺 𝑺𝑶𝑪𝑰𝑨𝑰𝑺 🤩 ━╮
+┣━━ 🤩 REDES SOCIALES🤩 ━╮
 ┃
 ┃ 📷 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: @_samuelgaanss
 ┃
@@ -21,7 +21,6 @@ return `
 ┃
 ┃
 ┣━━━⚡ PRINCIPAL ⚡━━━╮
-┃ ${p}brizasapi
 ┃ ${p}listblockcmd
 ┃ ${p}listpalavra
 ┃ ${p}info
@@ -29,7 +28,7 @@ return `
 ┃ ${p}delete
 ┃ ${p}ajuda
 ┃ ${p}help
-┃ ${p}oficialcriador
+┃ ${p}oficialcrador
 ┃ ${p}comandos
 ┃ ${p}menulite
 ┃ ${p}menu
@@ -38,7 +37,7 @@ return `
 ┃ ${p}sugerircmd (txt)
 ┃ ${p}blocklist
 ┃ ${p}blacklist
-┃ ${p}criador
+┃ ${p}creador
 ┃ ${p}toimg (leg, resp img)
 ┣━━━━✨ STICKER ✨━━━━╮
 ┃ ${p}stiker (leg, resp img)
