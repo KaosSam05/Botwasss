@@ -340,28 +340,6 @@ return `
 ┃ ${p}pascoa (ano)
 ┃ ${p}natal (ano)
 ┃ ${p}anonovo
-┣━━━━━😈 𝙋𝙊𝙍𝙉𝙊 😈━━━━╮
-┃ ${p}packmega18
-┃ ${p}nhentai ❮code❯
-┃ ${p}randomhentai
-┃ ${p}nsfwblowjob
-┃ ${p}nsfwneko
-┃ ${p}nsfwtrap
-┃ ${p}nsfw (1 or 0)
-┃ ${p}anal
-┃ ${p}cum
-┃ ${p}yuri
-┃ ${p}hentainekogif
-┃ ${p}futanari
-┃ ${p}nsfwfeet
-┃ ${p}nsfwfeetgif
-┃ ${p}girlmasturbate
-┃ ${p}girlmasturbategif
-┃ ${p}lesbian
-┃ ${p}eroyuri
-┃ ${p}eroneko
-┃ ${p}erokitsune
-┃ ${p}spank
 ┣━━━━🗣️ 𝙑𝙊𝙕 𝙈𝙊𝘿 🗣️━━━━╮
 ┃ ${p}esquilo (resp audio)
 ┃ ${p}grave (resp audio)
