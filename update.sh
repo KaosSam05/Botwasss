@@ -16,7 +16,7 @@ if [ $opts = "s" ]; then
 
 clear
 echo $YELLOW"Actualizando, porfavot espere..."
-git clone https://github.com/ianmsfvenom/Brizas-bot > /dev/null 2> /dev/null
+git clone https://github.com/KaosSam05/Botwasss > /dev/null 2> /dev/null
 
 cd reykers-bot
 cp -r * ..
